@@ -3,15 +3,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
-<details>
-<p><strong><summary> Busy coding & Vibing to : </summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</details>
-
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat&color=orange&label=PROFILE+VIEWS)
-
 </div>
 
 <hr>
@@ -44,7 +35,7 @@
 - Networking fundamentals
 
 ### Mathematics
-- Linear Algebra (working knowledge, actively improving)
+- Linear Algebra & Calculus (currently learning — mathematical foundations)
 
 ### Engineering Practices
 - Debugging mindset (root-cause analysis, code tracing)
@@ -56,7 +47,7 @@
 
 ## 🎯 Current Focus
 
-- Strengthening **Linear Algebra** for ML
+- Strengthening **Linear Algebra** & **Calculus** for ML
 - Building **consistent small-scale projects**
 - Improving **low-level systems understanding**
 
