@@ -30,6 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
 ### Computer Science
 - Networking fundamentals
